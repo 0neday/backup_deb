@@ -11,3 +11,5 @@ iPhone:~/Media/general_storage/tmp mobile$ ./backp_deb  cydia
 Please Enter the num:
 
 Enter number 1 to backup cydia package.
+
+And then you will find cydia package in /var/mobile/Media/deb directory
